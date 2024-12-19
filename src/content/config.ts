@@ -16,7 +16,7 @@ import { glob } from 'astro/loaders';
 });*/
 
 const projects = defineCollection({
-    loader: glob({ pattern: "**/*.mdx", base: "./src/content/projects" }),
+    loader: glob({ pattern: "**/*.mdx", base: "./src/content/David-Duf0ur/projects" }),
     schema: ({ image }) => z.object({
         title: z.string(),
         startDate: z.date(),
