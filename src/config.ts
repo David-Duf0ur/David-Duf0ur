@@ -7,7 +7,7 @@ export const SITE = {
     logo: "logo__",
     logoText: "",
     lang: "fr",
-    favicon: "/logo__.png",
+    favicon: "./logo__.png",
     repository: "https://github.com/vito8916/simple-portfolio.git",
     author: "David DUFOUR",
     profile: "https://david-dufour.dev",
