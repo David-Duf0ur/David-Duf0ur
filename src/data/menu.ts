@@ -4,7 +4,7 @@ export const menu = [
         label: 'Home',
     },
     {
-        href: '/projects',
+        href: '/David-Duf0ur/projects',
         label: 'Projets',
     },
 ]
