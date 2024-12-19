@@ -1,78 +1,54 @@
 export const SITE = {
-    website: "https://simple-portfolio.vicbox.dev", // replace this with your deployed domain
-    title: "Simple Portfolio",
-    description: "A simple but beautiful portfolio created with Astro",
-    tags: ["portfolio", "Resume cv", "Astro"],
-    ogImage: "/og-image.webp",
-    logo: "logo",
-    logoText: "SPortfolio",
-    lang: "en",
-    favicon: "/favicon.png",
+    website: "https://david-dufour.dev", // replace this with your deployed domain
+    title: "Portfolio David DUFOUR",
+    description: "Mon portfolio fait avec Astro :)",
+    tags: ["portfolio", "CV", "Astro","full stack", "CDA"],
+    ogImage: "",
+    logo: "logo__",
+    logoText: "",
+    lang: "fr",
+    favicon: "/logo__.png",
     repository: "https://github.com/vito8916/simple-portfolio.git",
-    author: "Victor Alvarado",
-    profile: "https://victoralvarado.dev/",
+    author: "David DUFOUR",
+    profile: "https://david-dufour.dev",
 }
 
 export const ME = {
-    name: "John Doe",
-    profession: "Software Engineer | Full Stack Developer",
-    profileImage: "pp.png",
+    name: "David DUFOUR",
+    profession: "Concepteur développeur d'application | Full Stack",
+    profileImage: "pp_dd.webp",
     profileFacts: [
         {
-            value: 10,
-            description: "Years of Experience"
+            value: 3,
+            description: "Années de pratique"
         },
         {
             value: 5,
-            description: "Completed Projects"
+            description: "Projets finis"
         },
         {
             value: 4,
-            description: "Satisfied Clients"
+            description: "Sites en production"
         }
     ],
     contactInfo: {
-        email: "vicbox.dev@vicbox.dev",
-        linkedin: "https://www.linkedin.com/in/victor-alvaradohn",
-        resumeDoc: "resume.pdf",
+        email: "d_dufour@hotmail.fr",
+        linkedin: "https://www.linkedin.com/in/dufourd",
+        resumeDoc: "resume_dd.pdf",
     },
-    aboutMe: "I am a software engineer with a passion for web development. I have experience in building web " + "applications using modern technologies. I am a self-taught developer who enjoys learning new things and " + "sharing knowledge with others.",
+    aboutMe: "Après 15ans d'expérience dans l'industrie, j'ai depuis quelques mois maintenant suivi ma passion pour le developpement web. Actuellement en formation 'Concepteur Développeur d'Application', je combine mes compétences techniques et ma créativité pour contribuer à des projets dynamiques et innovants.",
 }
 
-export const SOCIALS = [
+export const SOCIALS = [    
     {
-        name: "Twitter",
-        url: "https://twitter.com/vicbox.dev",
-        icon: "twitter-x-fill",
+        name: "GitHub Formation",
+        url: "https://github.com/David-Duf0ur",
+        icon: "github-fill",
         show: true
     },
     {
-        name: "Facebook",
-        url: "https://www.facebook.com/vicbox.dev",
-        icon: "facebook-fill",
-        show: false
-    },
-    {
-        name: "Instagram",
-        url: "https://www.instagram.com/vicbox.dev",
-        icon: "instagram-fill",
-        show: true
-    },
-    {
-        name: "Youtube",
-        url: "https://www.youtube.com/vicbox.dev",
-        icon: "youtube-fill",
-        show: true
-    },
-    {
-        name: "TikTok",
-        url: "https://tiktok.com/vicbox.dev",
-        icon: "tik-fill",
-        show: false
-    },
-    {
-        name: "GitHub",
-        url: "https://github.com/vicbox.dev",
+        name: "GitHub Perso",
+        url: "https://github.com/D3vInsid3",
         icon: "github-fill",
         show: true
     }

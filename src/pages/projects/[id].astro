@@ -15,12 +15,12 @@ export async function getStaticPaths() {
 }
 
 const { post } = Astro.props;
-const { title, summary, tags, cover, ogImage, url } = post.data;
+const { title, tags, cover, ogImage, url } = post.data;
 
 const { Content } = await render(post);
 
 ---
-<Layout title={title} description={summary} imageOg={ogImage} scrollSmooth={true}>
+<Layout title={title} imageOg={ogImage} scrollSmooth={true}>
     <main class="container py-24 flex gap-8 flex-col" id="top">
         <div class="flex justify-center mt-10">
             <BackBtn/>
@@ -31,13 +31,10 @@ const { Content } = await render(post);
                 {tags.join(', ')}
             </p>
         </div>
-        <Image transition:name={`${post.id}-image`} class="rounded-2xl" src={cover} alt="Main project image"/>
-        <p>
-            {summary}
-        </p>
+        <Image transition:name={`${post.id}-image`} class="rounded-2xl bg-slate-50" src={cover} alt="Main project image"/>
         <a href={url}>
-            Visit the project ↗
-        </a>
+            Voir le site du projet ↗
+        </a>       
 
         <article id="article" class="mt-8 prose dark:prose-invert">
             <Content/>

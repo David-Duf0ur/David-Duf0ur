@@ -5,6 +5,6 @@ export const menu = [
     },
     {
         href: '/projects',
-        label: 'Projects',
+        label: 'Projets',
     },
 ]

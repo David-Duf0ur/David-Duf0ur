@@ -6,8 +6,7 @@ import ProjectCardList from '@/components/ProjectCardList.astro';
 interface Project {
     id: string;
     data: {
-        title: string;
-        summary: string;
+        title: string;        
         tags: string[];
         cover: ImageMetadata;
     };
@@ -16,12 +15,12 @@ interface Project {
 const allProjects = await getCollection('projects');
 ---
 
-<Layout title="John Doe | Portfolio | My Projects" description="A list of my best projects" scrollSmooth={false}>
+<Layout title="DUFOUR David | Portfolio | Mes Projets" description="Liste de mes projets" scrollSmooth={false}>
     <main class="container py-24 flex gap-8 flex-col" role="main">
         <!--Projects Section-->
         <section class="border-bottom">
             <div class="mb-4">
-                <h2 class="text-3xl font-bold mb-8">All My Projects</h2>
+                <h2 class="text-3xl font-bold mb-8">Tout mes projets</h2>
             </div>
         </section>
 

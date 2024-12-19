@@ -12,7 +12,7 @@ const imageName = ME.profileImage;
 const imagePath = `/src/assets/${imageName}`;
 
 /* Import image Dynamically*/
-const images = import.meta.glob<{ default: ImageMetadata }>('/src/assets/*.{jpeg,jpg,png,gif}');
+const images = import.meta.glob<{ default: ImageMetadata }>('/src/assets/*.{jpeg,jpg,png,gif,webp}');
 
 /* Throw error if image does not exist */
 if (!images[imagePath]) throw new Error(`"${imagePath}" does not exist in glob: "src/assets/*.{jpeg,jpg,png,gif}"`);
