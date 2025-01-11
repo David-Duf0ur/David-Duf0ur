@@ -34,9 +34,9 @@ export const ME = {
     contactInfo: {
         email: "d_dufour@hotmail.fr",
         linkedin: "https://www.linkedin.com/in/dufourd",
-        resumeDoc: "resume_dd.pdf",
+        resumeDoc: "CV_dev_sh.pdf",
     },
-    aboutMe: "Après 15ans d'expérience dans l'industrie, j'ai depuis quelques mois maintenant suivi ma passion pour le developpement web. Actuellement en formation 'Concepteur Développeur d'Application', je combine mes compétences techniques et ma créativité pour contribuer à des projets dynamiques et innovants.",
+    aboutMe: "Fort de 15 ans d’expérience dans l’industrie, j’ai développé une expertise solide en supply chain et dans le domaine de l’impression 3D, où j’ai géré des projets complexes et innovants. Guidé par ma passion pour la technologie et le numérique, j’ai choisi de me réinventer en me lançant dans une reconversion en développement web. Aujourd’hui, je mets mon savoir-faire industriel au service de solutions numériques, combinant rigueur, créativité et innovation, et je suis activement à la recherche de nouveaux défis pour continuer à apprendre et à contribuer à des projets ambitieux.",
 }
 
 export const SOCIALS = [    
@@ -46,10 +46,10 @@ export const SOCIALS = [
         icon: "github-fill",
         show: true
     },
-    {
-        name: "GitHub Perso",
-        url: "https://github.com/D3vInsid3",
-        icon: "github-fill",
-        show: true
-    }
+    // {
+    //     name: "GitHub Perso",
+    //     url: "https://github.com/D3vInsid3",
+    //     icon: "github-fill",
+    //     show: true
+    // }
 ]

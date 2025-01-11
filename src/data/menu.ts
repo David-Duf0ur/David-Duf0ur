@@ -1,7 +1,7 @@
 export const menu = [
     {
         href: '/David-Duf0ur/',
-        label: 'Home',
+        label: 'Accueil',
     },
     {
         href: '/David-Duf0ur/projects',
