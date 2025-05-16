@@ -16,6 +16,13 @@ Mon objectif est clair : **concevoir des solutions utiles, robustes et bien pens
 
 ---
 
+## 🔍 En recherche active
+
+Je suis actuellement **en recherche active d’opportunités** dans le développement web.  
+Que ce soit un poste junior ou une collaboration freelance, je suis motivé, curieux, et prêt à m’investir dans un projet stimulant, humain et porteur de sens.
+
+---
+
 ## 💼 Quelques projets concrets
 
 ### 🌐 WordPress
