@@ -43,6 +43,7 @@ Que ce soit un poste junior ou une collaboration freelance, je suis motivé, cur
 - [LinkedIn](www.linkedin.com/in/dufourd)
 - 📧 Email : d_dufour@hotmail.fr
 - [GitHub](https://github.com/David-Duf0ur)
+- [Portfolio](https://david-duf0ur.github.io/David-Duf0ur/)
 
 ---
 
