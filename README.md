@@ -32,7 +32,9 @@ Que ce soit un poste junior ou une collaboration freelance, je suis motivé, cur
 - 🔗 [Rev'Rie](https://rev-rie.fr/)
 - 🔗 [LS'Place](https://lsplace-habitat-inclusif-74.fr/)
 
-### 🧰 Autres projets à venir...
+### 🧰 Autres projets
+
+- 🔗 [Boilr](https://github.com/David-Duf0ur/Boilr)
 
 ---
 
