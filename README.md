@@ -9,7 +9,7 @@ Au fil du temps, une passion grandissante pour le **développement logiciel** s'
 D’abord par curiosité — en automatisant des tâches ou en bricolant des scripts — puis de manière plus structurée, avec l’envie de faire du code mon métier.
 
 Cette envie s’est concrétisée par une **reconversion complète vers le développement**.  
-J’ai suivi une formation intensive (*à personnaliser si besoin*), accompagnée de nombreux projets personnels pour monter en compétences sur les technologies **web**, **backend** et **frontend**.
+J’ai suivi une formation intensive de Concepteur‑Développeur d’Applications à l’école O’Clock, complétée par de nombreux projets personnels qui m’ont permis de monter en compétences sur les technologies web, back‑end et front‑end.
 
 Aujourd’hui, je mets cette **double compétence — industrielle et numérique —** au service de projets techniques, fonctionnels et concrets.  
 Mon objectif est clair : **concevoir des solutions utiles, robustes et bien pensées**, tout en continuant à apprendre chaque jour.
