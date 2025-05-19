@@ -28,7 +28,7 @@ Que ce soit un poste junior ou une collaboration freelance, je suis motivé, cur
 ### 🌐 WordPress
 
 - 🔗 [Le Golf Pierre Carrée](https://golf-flaine-lescarroz.fr/)
-- 🔗 [Centrale de rénovation (Haute-Savoie)](https://centralederenovation.fr/)
+- 🔗 [Centrale de rénovation - Mont Blanc)](https://centralederenovation.fr/)
 - 🔗 [Rev'Rie](https://rev-rie.fr/)
 - 🔗 [LS'Place](https://lsplace-habitat-inclusif-74.fr/)
 
