@@ -34,8 +34,13 @@ Que ce soit un poste junior ou une collaboration freelance, je suis motivé, cur
 
 ### 🧰 Autres projets
 
-- 🔗 [Boilr](https://github.com/David-Duf0ur/Boilr)
-- 🔗 [MyOnlyPASS](https://github.com/David-Duf0ur/MyOnlyPass)
+- 🚀 [**Boilr**](https://github.com/David-Duf0ur/Boilr)  
+  *Script Bash pour automatiser tes projets*  
+  **Stack :** Bash
+
+- 🗝️ [**MyOnlyPASS**](https://github.com/David-Duf0ur/MyOnlyPass)  
+  *Gestionnaire de mots de passe moderne et sécurisé*  
+  **Stack :** Node.js, React, PostgreSQL, MongoDB, Documentation
 
 ---
 
