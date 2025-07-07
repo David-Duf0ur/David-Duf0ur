@@ -35,6 +35,7 @@ Que ce soit un poste junior ou une collaboration freelance, je suis motivé, cur
 ### 🧰 Autres projets
 
 - 🔗 [Boilr](https://github.com/David-Duf0ur/Boilr)
+- 🔗 [MyOnlyPASS](https://github.com/David-Duf0ur/MyOnlyPass)
 
 ---
 
